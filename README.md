@@ -1,1 +1,5 @@
 # CS-210
+
+This project was to create a code that can read texts from a file and to implement it as well. It solved how temperatures can be changed from Fahrenheight to Celsius.
+The things I did well with this project was to create the code that actually read from the text file it was recommended. The place I can enhance my code is where to reduce certain aspects where it would not cause
+a crash to take place due to word wrapping at line 30. The part that I was having issues with was making sure I was spelling everything correctly and the indentations. The way I fixed this was to create the code normally and then I asked a friend who is working in the IT field what the indentations should look like and they walked through it with me. The skills That will be trasnferable from this project was how to create something that can read text files which can easily be transferred to my other coding classes that I will be taking in the future. The way I made this program maintainable, readable, and adaptable was by making sure the spelling was correct and that if it needs to be redone I can easily download it again and improve more as I learn more about coding.
